@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://sh.com" uri="dn.com/sale/sh.com"/>
+    <system systemId="http://shopv.com" uri="shopv.com"/>
+    <system systemId="http://shop.com" uri="www.shop.com/index"/>
+</catalog>

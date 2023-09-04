@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+<shop xmlns:a="http://shopa.com" xmlns:b="http://shopv.com" xmlns="http://shop.com">
+    <a:shirt  sid="s001">
+        <a:name>ao dior</a:name>
+        <a:size>x</a:size>
+    </a:shirt>
+    <b:shirt  sid="s002">
+        <b:name>ao dior</b:name>
+        <b:price>5.3</b:price>
+    </b:shirt>
+    <shirt  sid="s003">
+        <amount>amount</amount>
+    </shirt>
+</shop>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+
+
+<shop
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='file:/home/user/NetBeansProjects/Shopquanao/src/shop/xmlschema.xsd'>
+    <clother>
+        <sid>1</sid>
+        <name>ao dai</name>
+        <size>s</size>
+        <amount>2</amount>
+        <price>1.34</price>
+        <category>ao</category>
+    </clother>
+    <clother>
+        <sid>2</sid>
+        <name>quan jein</name>
+        <size>m</size>
+        <amount>2</amount>
+        <price>3.34</price>
+        <category>quan</category>
+    </clother>
+    <clother>
+        <sid>3</sid>
+        <name>ao khoac</name>
+        <size>xxl</size>
+        <amount>2</amount>
+        <price>4.24</price>
+        <category>ao</category>
+    </clother>
+   
+</shop>
+

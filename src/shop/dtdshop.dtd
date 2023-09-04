@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT Shop (shirt)*>
+<!ELEMENT shirt (name,amount,price,description,sname)>
+<!ATTLIST shirt sid ID #REQUIRED>
+<!ELEMENT name (#PCDATA)> 
+<!ELEMENT amount (#PCDATA)> 
+<!ELEMENT price (#PCDATA)> 
+<!ELEMENT description (#PCDATA)> 
+<!ELEMENT sname (#PCDATA)> 
+<!ENTITY shopname "APTECH shop">
